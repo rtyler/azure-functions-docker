@@ -1,7 +1,8 @@
 = Azure Functions Container
 
 This is a Docker container to make running
-link:https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local[Azure Functions Core Tools].
+link:https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local[Azure Functions Core Tools]
+easier.
 
 
 link:https://hub.docker.com/r/rtyler/azure-functions/[On DockerHub].
