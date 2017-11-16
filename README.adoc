@@ -20,3 +20,5 @@ Function app lives and run:
 ----
 docker run --net host --rm -ti -v $PWD:$PWD -w PWD rtyler/azure-functions func start
 ----
+
+image::https://github.com/rtyler/azure-functions-docker/blob/master/local-azure-functions.png?raw=true[In action]
