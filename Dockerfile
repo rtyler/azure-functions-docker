@@ -1,4 +1,4 @@
-FROM node:9-stretch
+FROM node:8-stretch
 
 RUN curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > /etc/apt/trusted.gpg.d/microsoft.gpg
 
